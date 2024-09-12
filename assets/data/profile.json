@@ -1,0 +1,81 @@
+{
+    "name": "Lucas Robson Miranda da Silva",
+    "photo": "https://avatars.githubusercontent.com/u/83253717?v=4",
+    "job": "Programador Full Stack",
+    "location": "Recife - PE",
+    "phone": "(81) 9 7900-0826",
+    "email": "lucassrobson07@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Nodejs",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        },
+        {
+          "name": "Html",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+        },
+        {
+            "name": "GitHub",
+            "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+          }
+        
+      ],
+      "softSkills": [
+        "Empatia",
+        "Liderança",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização",
+        "Comunicação",
+        "Adaptabilidade"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (intermediário)",
+      "Espanhol (intermediário)"
+    ],
+    "portfolio": [
+      {
+        "name": "Criando uma Pokedex JavaScript",
+        "url": "https://github.com/LukeRobs/Pokedex",
+        "github": true
+      },
+      {
+        "name": "Conversor de Arquivo xml para Excel em Python",
+        "url": "https://github.com/LukeRobs/XML-to-Excel",
+        "github": true
+      },
+      {
+        "name": "Criando Agenda com Python",
+        "url": "https://github.com/LukeRobs/Agenda",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Especialista técnico em redes / Templo Central da IEADALPE",
+        "period": "Jan 2020 - Dez 2020",
+        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      },
+      {
+        "name": "Administrador de sistemas operacionais / Realcema",
+        "period": "Dez 2021 - Mar 2023",
+        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      },
+      {
+        "name": "Programador Full-Stack / FreeLancer",
+        "period": "2021 - Current",
+        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      }
+    ]
+  }
