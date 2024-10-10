@@ -51,6 +51,16 @@
         "github": true
       },
       {
+        "name": "Clone site HBO MAX",
+        "url": "https://github.com/LukeRobs/HBOMAX",
+        "github": true
+      },
+      {
+        "name": "Coffee Shop",
+        "url": "https://github.com/LukeRobs/Coffe-Shop",
+        "github": true
+      },
+      {
         "name": "Spider-Man | Multiverse ",
         "url": "https://spider-man-multiverse-sigma.vercel.app/",
         "github": true
